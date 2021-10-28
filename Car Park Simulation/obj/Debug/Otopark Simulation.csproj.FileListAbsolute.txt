@@ -1,0 +1,7 @@
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\obj\Debug\Otopark Simulation.csproj.AssemblyReference.cache
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\obj\Debug\Otopark Simulation.csproj.CoreCompileInputs.cache
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\bin\Debug\Otopark Simulation.exe.config
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\bin\Debug\Otopark Simulation.exe
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\bin\Debug\Otopark Simulation.pdb
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\obj\Debug\Otopark Simulation.exe
+C:\Users\tevfik\Desktop\TEVFİK FURKAN AKSU CASE\Otopark Simulation\obj\Debug\Otopark Simulation.pdb
